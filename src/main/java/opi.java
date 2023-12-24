@@ -9,4 +9,5 @@
  */
 public class opi {
     int a;
+    int b;
 }
