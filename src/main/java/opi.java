@@ -8,5 +8,5 @@
  * @author ayman
  */
 public class opi {
-    
+    int a;
 }
